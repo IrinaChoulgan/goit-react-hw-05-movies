@@ -54,3 +54,9 @@
   border-radius: 2em;
   transition: all 0.3s ease-out;
 }
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
