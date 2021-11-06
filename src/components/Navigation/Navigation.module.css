@@ -4,6 +4,8 @@
   padding: 12px;
   font-weight: 500;
   font-size: 18px;
+  font-size: 25px;
+  color: black;
 }
 .activeLink {
   display: inline-block;
@@ -11,5 +13,13 @@
   padding: 12px;
   font-weight: 500;
   font-size: 18px;
-  color: #ff7f50;
+  color: #8fd4c1;
+  font-size: 25px;
+}
+.nav {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
 }

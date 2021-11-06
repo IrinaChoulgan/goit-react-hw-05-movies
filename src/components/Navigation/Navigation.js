@@ -3,7 +3,7 @@ import s from './Navigation.module.css';
 
 const Navigation = () => {
   return (
-    <nav>
+    <nav className={s.nav}>
       <NavLink exact to="/" className={s.link} activeClassName={s.activeLink}>
         Home
       </NavLink>
